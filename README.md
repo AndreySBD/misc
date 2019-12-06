@@ -1,1 +1,2 @@
-# misc
+##### Vue project example: structure, ecosystem
+
